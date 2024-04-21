@@ -70,3 +70,5 @@ public bool autoInvalidate = true;
 Adding the user control:
 
 ![image](https://github.com/mohfez/winform-graph-visualiser/assets/150836596/a4b2f348-6364-4318-964c-2e5def671a33)
+
+More example usage can be found at https://github.com/mohfez/logic-calculator.
