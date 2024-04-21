@@ -4,6 +4,8 @@ A way to visualise graphs onto a user control in winforms (using a GraphView con
 
 (An example project is included in this repo).
 
+The library is the GraphViewer folder itself.
+
 ## Example Usage
 
 Adding nodes to the graph:
